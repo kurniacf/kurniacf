@@ -42,24 +42,30 @@ Here are some ideas to get you started:
 ### 🔠 Languages
 
 <p>
-  <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="https://en.cppreference.com/w/"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
-  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white"></a>
+  <a href="https://en.cppreference.com/w/"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white"></a>
+  <a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?e&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&logo=latex&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white"></a>
+  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54"></a>
 
-### 🕹 Frameworks and libraries
-
+### 🕹 Frameworks, Platforms, and libraries
 <p>
-    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="https://github.com/features/actions"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?e&logo=bootstrap&logoColor=white"></a>
+  <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB"></a>
+  <a href="https://jquery.com/"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white"></a>
+  <a href="https://jwt.io/"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?&logo=JSON%20web%20tokens"></a>
+  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&logo=laravel&logoColor=white"></a>
+  <a href="https://mui.com/"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?&logo=material-ui&logoColor=white"></a>
+  <a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?&logo=npm&logoColor=white"></a>
+  <a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white"></a>
+  <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&logo=webpack&logoColor=black"></a>
+  <a href="https://yarnpkg.com/"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&logo=yarn&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
