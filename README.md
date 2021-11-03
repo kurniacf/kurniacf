@@ -49,3 +49,12 @@ Here are some ideas to get you started:
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kurniacf&hide_border=true&theme=tokyonight" />
 </details>
+
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
