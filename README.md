@@ -3,6 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kurnia-cahya-febryanto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kurniacf)
 
+<p align="left">
+  <a href="https://github.com/kurniacf/kurniacf">
+    <img src="https://komarev.com/ghpvc/?username=kurniacf" alt="page views" />
+  </a>
+  <a href="https://github.com/kurniacf?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kurniacf?color=green&logo=github">
+  </a>
+</p>
+
 I am a curious person and want to learn many things (Backend Developer 👨‍💻, Frontend Web Developer 🌐, or Graphic Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -43,13 +52,20 @@ Here are some ideas to get you started:
   <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurniacf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniacf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=kurniacf&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kurniacf&hide_border=true&theme=tokyonight" />
 </details>
-
+<details>
+  <summary><b>🏆 Trophy</b></summary>
+  <br/>
+  <p align="left">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=kurniacf&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=onedark" />
+</p>
+</details>
 
 #
 
