@@ -7,6 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kurnia-cahya-febryanto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kurniacf)
+[![Medium](https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white)](https://medium.com/@kurniacf)
 
 <p align="left">
   <a href="https://github.com/kurniacf/kurniacf">
@@ -69,7 +70,6 @@ Here are some ideas to get you started:
 </p>
 
 ### 🎨 Design
-
 <p>
     <a href="https://www.adobe.com/sea/"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&logo=adobe&logoColor=white"></a>
     <a href="https://creativecloud.adobe.com/"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
@@ -83,12 +83,14 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
 </p>
 
-### 📝 IDE & Editor
-
+### 📝 IDE/Editor, Version Control, and CI
 <p>
-   <a href="https://codepen.io/"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"></a>
+  <a href="https://codepen.io/"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"></a>
   <a href="https://codesandbox.io/"><img alt="CodeSandbox" src="https://img.shields.io/badge/Codesandbox-040404?&logo=codesandbox&logoColor=DBDBDB"></a>  
   <a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?&logo=Eclipse&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white"></a>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&logo=githubactions&logoColor=white"></a>
   <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
   <a href="https://jupyter.org/"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white"></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
@@ -97,30 +99,30 @@ Here are some ideas to get you started:
   <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"></a>
 </p>
 
-
-### 🗄️ Databases and cloud hosting
-
+### 🗄️ Databases, Hosting, and Servers
 <p>
-    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://dashboard.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="https://www.oracle.com/id/index.html"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="https://httpd.apache.org/"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?&logo=apache&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase"></a>
+  <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white"></a>
+  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white"></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white"></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white"></a>
+  <a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7"></a>
+  <a href="https://www.nginx.com/"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white"></a>
+  <a href="https://www.oracle.com/id/index.html"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?&logo=oracle&logoColor=white"></a>
+  <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
-
+### 🖋 Other Tools
 <p>
-    <a href="https://www.adobe.com/sea/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://babeljs.io/"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?&logo=babel&logoColor=black"></a>
+  <a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?&logo=microsoft-office&logoColor=white"></a>
+  <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white"></a>
+  <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white"></a>
+  <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&logo=Trello&logoColor=white"></a>
+  
 </p>
+
 <br>
 
 ## 💻 My Github Statistics:
