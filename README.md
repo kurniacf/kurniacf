@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thanks!
 
 </div>
