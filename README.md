@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 ### 🎨 Design
 <p>
     <a href="https://www.adobe.com/sea/"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&logo=adobe&logoColor=white"></a>
-    <a href="https://creativecloud.adobe.com/"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
-  <a href="https://get.adobe.com/reader/"><img alt="Adobe Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a>
+    <!-- <a href="https://creativecloud.adobe.com/"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&logo=Adobe%20Creative%20Cloud&logoColor=white"></a> -->
+  <!-- <a href="https://get.adobe.com/reader/"><img alt="Adobe Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a> -->
   <a href="https://www.adobe.com/sea/products/aftereffects.html"><img alt="Adobe After Effect" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&logo=Adobe%20After%20Effects&logoColor=white"></a>
     <a href="https://www.adobe.com/sea/products/illustrator.html"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&logo=adobeillustrator&logoColor=white"></a>
   <a href="https://www.adobe.com/sea/products/photoshop.html"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&logo=adobephotoshop&logoColor=white"></a>
