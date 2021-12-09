@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+hide=c%2B%2B
 -->
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🔨 My Tools
