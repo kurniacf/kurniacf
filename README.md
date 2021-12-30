@@ -10,9 +10,11 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white)](https://medium.com/@kurniacf)
 
 <p align="left">
+  <!--
   <a href="https://github.com/kurniacf/kurniacf">
     <img src="https://komarev.com/ghpvc/?username=kurniacf" alt="page views" />
   </a>
+  -->
   <a href="https://github.com/kurniacf?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/kurniacf?color=green&logo=github">
   </a>
