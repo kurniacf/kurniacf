@@ -1,6 +1,5 @@
 ## <p align="center"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Kurnia Cahya Febryanto!](https://github.com/kurniacf/) </p>
 
-## ...
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics%20Engineering%20Student;Always%20learning%20new%20things;Interested%20in%20backend%20developer&font=Fira%20Code&center=true&width=440&height=45&color=85a7ff&vCenter=true&size=22"></a>
 </p>
