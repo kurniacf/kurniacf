@@ -145,8 +145,10 @@ hide=c%2B%2B
 <details>	
   <summary><b>📊 Github Profile Stats</b></summary>
   <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurniacf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniacf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurniacf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=monokai" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniacf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai&hide=c%2B%2B"/>
+<br/>
+
   <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=kurniacf&theme=tokyonight&bg_color=20232a&hide_border=true&count_private=true" width="100%"/>
  -->
