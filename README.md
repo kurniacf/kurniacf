@@ -22,7 +22,7 @@
   </a>
 </p>
 
-I am a curious person and want to learn many things (Backend Developer 👨‍💻, Frontend Web Developer 🖼, or Graphic Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a curious person and want to learn many things (Backend Developer 👨‍💻, Frontend Developer 🖼, Machine Learning and Artificial Intelligence 🤖, Data Analythics and Data Data Science 📊, Graphic Designer 🎨, and Enterprise IT 📚) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
