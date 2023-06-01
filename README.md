@@ -179,7 +179,7 @@ hide=c%2B%2B
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurniacf&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kurniacf&hide_border=true&theme=tokyonight" />
 </details>
 <details>
   <summary><b>🏆 Trophy</b></summary>
