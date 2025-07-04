@@ -213,8 +213,10 @@
 
 # 
 
-<div align="center">
-
-### Thanks & Happy Enjoying 😊
-
-</div>
+<details>
+ <summary><b>💬 Random Dev Quote</b></summary>
+ <br/>
+ <div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+ </div>
+</details>
