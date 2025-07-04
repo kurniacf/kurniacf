@@ -1,9 +1,8 @@
 ## <p align="center"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Kurnia Cahya Febryanto!](https://github.com/kurniacf/) </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics%20Engineering%20Student;Always%20learning%20new%20things;Interested%20in%20backend%20developer&font=Fira%20Code&center=true&width=440&height=45&color=85a7ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Researcher%20%26%20Software%20Architect;PhD%20Candidate%20%7C%20Tech%20Innovator;Bridging%20Theory%20and%20Practice;Research%20Today%2C%20Solutions%20Tomorrow;Passionate%20About%20Cutting-Edge%20Tech&font=Fira%20Code&center=true&width=480&height=45&color=85a7ff&vCenter=true&size=22"></a>
 </p>
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kurnia-cahya-febryanto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kurniacf)
@@ -12,13 +11,11 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/21o5futfpv72qisww3brfywga?si=00a1e2f99a47412d)
 
 <p align="left">
-  <!--
-  <a href="https://github.com/kurniacf/kurniacf">
-    <img src="https://komarev.com/ghpvc/?username=kurniacf" alt="page views" />
-  </a>
-  -->
   <a href="https://github.com/kurniacf?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/kurniacf?color=green&logo=github">
+  </a>
+  <a href="https://github.com/kurniacf/kurniacf">
+    <img src="https://komarev.com/ghpvc/?username=kurniacf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
